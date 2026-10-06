@@ -412,7 +412,7 @@ The emulator reaches the host via `10.0.2.2`, not `localhost`.
 
 ## Related projects
 
-- [Knightline](https://github.com/<you>/knightline) — the backend API this
+- [Knightline](https://github.com/Odysseus26/Knightline) — the backend API this
   app consumes. Scrapes TripShot and Rutgers Campus Maps, stores in Redis,
   serves over Fastify.
 
